@@ -3,6 +3,8 @@
 Year 2 BSc Computer Science @ University of Liverpool.  
 Interested in machine learning, AI and all that good stuff. Currently undertaking data science and machine learning modules.
 
+Starting an internship for the summer as a software developer at ARM in July.
+
 [linkedin.com/in/rhugill](https://linkedin.com/in/rhugill)
 
 ---
