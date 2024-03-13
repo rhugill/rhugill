@@ -12,7 +12,7 @@ Starting an internship for the summer as a software developer at ARM in July.
 First class in modules such as **Programming Language Paradigms**, **Data Structures & Algorithms**, **OO Programming**, **Analytic Techniques** (so far...)
 
 Strongest in `Python` and `Java`. Also decently experienced in `Haskell`, `MySQL` and `Arduino (C++)`.  
-Currently learning scripting languages and `C`.
+Currently learning `PHP`, `JavaScript` and `C`.
 
 
 
