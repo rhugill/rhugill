@@ -1,9 +1,10 @@
 # Hello
 
-Year 2 BSc Computer Science @ University of Liverpool.  
-Interested in machine learning, AI and all that good stuff. Currently undertaking data science and machine learning modules.
+Year 3 BSc Computer Science @ University of Liverpool.  
 
-Interning as a Performance Analysis Engineer at Arm until September.
+Arm intern Summer 2024.
+
+Arm graduate from September 2025
 
 [linkedin.com/in/rhugill](https://linkedin.com/in/rhugill)
 
