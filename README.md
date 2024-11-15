@@ -4,7 +4,7 @@ Year 3 BSc Computer Science @ University of Liverpool.
 
 Arm intern Summer 2024.
 
-Arm graduate from September 2025
+Arm graduate from September 2025.
 
 [linkedin.com/in/rhugill](https://linkedin.com/in/rhugill)
 
