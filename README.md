@@ -10,9 +10,9 @@ Arm graduate from September 2025.
 
 ---
 
-First class in modules such as **Programming Language Paradigms**, **Data Structures & Algorithms**, **OO Programming**, **Analytic Techniques** and **Principles of C**.
+First class in modules such as **Programming Language Paradigms**, **Data Structures & Algorithms**, **OO Programming**, **Analytic Techniques**. **Autonomous Robotics** and **Principles of C**.
 
-Strongest in `Python`, `Java` and `C++`. Also decently experienced in `Haskell`, `MySQL`, `C` and `JavaScript`.
+Strong in `Python`, `Java` and `C++`. Also decently experienced in `Haskell`, `MySQL`, `C` and `JavaScript`.
 
 
 
